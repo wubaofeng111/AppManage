@@ -7,7 +7,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/wubaofeng111/AppManage/blob/master/Driver.ipa</string>
+		<string>https://github.com/wubaofeng111/AppManage/blob/master/SCMForDriver.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://github.com/wubaofeng111/AppManage/blob/master/image.57x57.png</string>
 		<key>fullSizeImageURL</key>
