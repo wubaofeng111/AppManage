@@ -1,1 +1,1 @@
-# AppManage
+itms-services://?action=download-manifest&url=https://github.com/wubaofeng111/AppManage/blob/master/ExportOptions.plist
